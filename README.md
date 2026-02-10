@@ -1,5 +1,5 @@
 ## Python libraries 
-pandas
-nflreadpy
-scikit-learn
-pyarrow
+- pandas
+- nflreadpy
+- scikit-learn
+- pyarrow
