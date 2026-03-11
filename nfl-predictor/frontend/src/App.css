@@ -1,0 +1,5 @@
+/* App.css — cleared of Vite defaults that conflict with the dashboard */
+
+#root {
+  width: 100%;
+}
